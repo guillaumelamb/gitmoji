@@ -45,9 +45,9 @@
 		{
 			"emoji":"📝",
 			"entity":"&#x1f4dd;",
-			"code":":memo:",
+			"code":":pencil:",
 			"description":"Writing docs.",
-			"name":"memo"
+			"name":"pencil"
 		},
 		{
 			"emoji":"🚀",
@@ -74,7 +74,7 @@
 			"emoji":"✅",
 			"entity":"&#x2705;",
 			"code":":white_check_mark:",
-			"description":"Adding tests.",
+			"description":"Updating tests.",
 			"name":"white-check-mark"
 		},
 		{
@@ -233,9 +233,9 @@
 		{
 			"emoji":"💩",
 			"entity":"&#58613;",
-			"code":":hankey:",
+			"code":":poop:",
 			"description":"Writing bad code that needs to be improved.",
-			"name":"hankey"
+			"name":"poop"
 		},
 		{
 			"emoji":"⏪",
@@ -430,7 +430,7 @@
 		  "emoji": "🏷️",
 		  "entity": "&#127991;",
 		  "code": ":label:",
-		  "description": "Adding or updating types (Flow, TypesScript)",
+		  "description": "Adding or updating types (Flow, TypeScript)",
 		  "name": "label"		
 		}
 	]
