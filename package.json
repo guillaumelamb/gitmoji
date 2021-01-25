@@ -46,7 +46,7 @@
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.26.14",
     "gulp-gh-pages": "^0.5.4",
     "jsonlint": "^1.6.2"
   }
